@@ -77,6 +77,7 @@ return (
                 )}
             </Layer>
         </Stage>
+        
         <button onClick={handleApply}>Apply</button>
         <button onClick={handleSave}>Save Result</button>
     </>
